@@ -12,7 +12,7 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 
 - 🔭 I’m currently working on a Terrain Generator
 - 🌱 I’m currently learning Rust
-- 📫 How to reach me: https://slyduda.com
+- 📫 How to connect with me: https://slyduda.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I went to school for accounting and I'm a self-taught engineer!
 
