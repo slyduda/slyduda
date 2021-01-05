@@ -2,7 +2,7 @@
 
 I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source advocate. I am always open to collaborating on projects and interesting ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sylvester_Duda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slyduda/)](https://www.linkedin.com/in/slyduda)
+[![Linkedin Badge](https://img.shields.io/badge/-Sylvester_Duda-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slyduda/)](https://www.linkedin.com/in/slyduda)
 [![Instagram Badge](https://img.shields.io/badge/-slyduda-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/slyduda/)](https://www.instagram.com/slyduda)
 [![Github Badge](https://img.shields.io/github/followers/slyduda?label=Followers&style=social)](https://www.github.com/slyduda)
 [![Twitter Badge](https://img.shields.io/twitter/follow/slyduda?style=social)](https://twitter.com/slyduda)
