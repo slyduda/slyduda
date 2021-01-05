@@ -39,3 +39,5 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=slyduda.slyduda)
