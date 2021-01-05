@@ -1,4 +1,4 @@
-### Hi there 👋
+## Thanks for stopping by! <img src="https://raw.githubusercontent.com/slyduda/slyduda/master/wave.gif" width="30px">
 
 <!--
 **slyduda/slyduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
