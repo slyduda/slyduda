@@ -5,7 +5,6 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 [![Linkedin Badge](https://img.shields.io/badge/-Sylvester_Duda-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/slyduda/)](https://www.linkedin.com/in/slyduda)
 [![Instagram Badge](https://img.shields.io/badge/-slyduda-e4405f?style=flate&logo=Instagram&logoColor=white&link=https://www.instagram.com/slyduda/)](https://www.instagram.com/slyduda)
 [![Discord Badge](https://img.shields.io/badge/-slyduda-738ADB?style=flate&logo=Discord&logoColor=white&link=https://discordapp.com/users/341429638775701515)](https://discordapp.com/users/341429638775701515)
-[![Github Badge](https://img.shields.io/github/followers/slyduda?label=Follow&style=social)](https://www.github.com/slyduda)
 [![Twitter Badge](https://img.shields.io/twitter/follow/slyduda?style=social)](https://twitter.com/slyduda)
 
 <!--
