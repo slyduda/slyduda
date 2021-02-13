@@ -23,6 +23,7 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 -	Web Technologies: Vue, React, Tailwind, Node.js, SCSS, Bootstrap, Ajax, WebAssembly, 
 -	Databases: Postgresql, MySQL, SQLite, SQLAlchemy, Redis (NoSQL) 
 -	AWS: AWS CLI, EC2, Elastic Beanstalk, RDS, S3, SES, Vault/Consul (Hashicorp)
--	Other: Flask/Quart, XML, Git, GitHub, Gitlab, Heroku, Three.js, Unity3D/Unity2D
+- Other Cloud: Digital Ocean, Redis Labs, Heroku 
+-	Other: Flask/Quart, XML, Git, GitHub, Gitlab, Three.js, Unity3D/Unity2D
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=slyduda.slyduda)
