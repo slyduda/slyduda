@@ -11,7 +11,7 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 **slyduda/slyduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a Terrain Generator
+- 🔭 I’m currently working on the Gemify Design System
 - 🌱 I’m currently learning Rust
 - 📫 How to connect with me: https://slyduda.com
 - 😄 Pronouns: He/Him
