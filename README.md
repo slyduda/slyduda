@@ -11,7 +11,7 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 **slyduda/slyduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on the Gemify Design System
+- 🔭 I’m currently working on the Gemify Design System - Granite: https://granite.gemify.tech 
 - 🌱 I’m currently learning Rust
 - 📫 How to connect with me: https://slyduda.com
 - 😄 Pronouns: He/Him
@@ -20,7 +20,7 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 ## ⚡ Technologies
 
 -	Programming Languages : Python, JavaScript, HTML, CSS, C++, C#, Rust, TypeScript, R 
--	Web Technologies: Vue, React, Tailwind, Node.js, SCSS, Bootstrap, Ajax, WebAssembly, 
+-	Web Technologies: Vue, Nuxt, React, TailwindCSS, Node.js, SCSS, Bootstrap, Ajax, WebAssembly, 
 -	Databases: Postgresql, MySQL, SQLite, SQLAlchemy, Redis (NoSQL) 
 -	AWS: AWS CLI, EC2, Elastic Beanstalk, RDS, S3, SES, Vault/Consul (Hashicorp)
 - Other Cloud: Digital Ocean, Redis Labs, Heroku 
