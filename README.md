@@ -11,7 +11,8 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 **slyduda/slyduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on the Gemify Design System - Granite: https://granite.gemify.tech 
+- 🔭 Something on the frontend that I'm currently working on is the Gemify Design System - Granite: https://granite.gemify.tech
+- 💾 Something on the backend that I'm currently working on is Failguard - Failguard: https://github.com/slyduda/failguard 
 - 🌱 I’m currently learning Rust
 - 📫 How to connect with me: https://slyduda.com
 - 😄 Pronouns: He/Him
