@@ -10,9 +10,8 @@ I am Sylvester Duda, people call me Sly. I am a tech lover and an open-source ad
 **slyduda/slyduda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Something on the frontend that I'm currently working on is the Gemify Design System - Granite: https://granite.gemify.tech
-- 💾 Something on the backend that I'm currently working on is Failguard - Failguard: https://github.com/slyduda/failguard 
-- 🌱 I’m currently learning Rust
+- 🔭 Something on the frontend that I'm currently working on is Likemind which you can find here [Likemind](https://likemind.ing) 
+- 🌱 I’m currently working at Archer, building solutions for modern day aviation
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I went to school for accounting and I'm a self-taught engineer!
 
